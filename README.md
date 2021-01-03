@@ -24,7 +24,14 @@ Finally step four created the output arrays for the ticker, volume and the perce
 
 ### Comparison of Stock Performance from 2017 to 2018
 2017 was a great year for the stocks. Only TERP had a negative return. Four stocks (DQ, ENPH, FSLR, SEDG) all had over 100% return on investment for the year.
+
+![Analysis_2017](Resources.zip)
+
+
 2018, however, was not a great stock year, with only ENPH and RUN having postive returns. 
+
+![Analysis_2018(Resources.zip)
+
 
 With this in mind the best stock to invest in would be RUN as it had a positive return in both years and increased from a 5.5% return to an 84% return between 2017 and 2018.
 
