@@ -7,12 +7,16 @@ In this analysis we were helping Steve to analyze how different stocks performed
 ### The Refactored Code
 #### Step 1
 Step one required refactoring the code to include a tickerIndex which would be used to access the correct index across the four arrays. Then the output arrays needed to be created.
+![Step1](Resources.zip)
 #### Step 2
 Step 2 was to create a for loop to initialze the tickerVolumes to zero and then loop through all the rows in the spreadsheet.
+![Step2](Resources.zip)
 #### Step 3
 Step 3 created a function to add the ticker volume to for the current stock ticker. It then had functions to determine if the row was the first and last row of the ticker so that it could create the starting and ending prices.
+![Step3](Resources.zip)
 #### Step 4
 Finally step four created the output arrays for the ticker, volume and the percent return.
+![Step4](Resources.zip)
 
 ### Comparison of Stock Performance from 2017 to 2018
 2017 was a great year for the stocks. Only TERP had a negative return. Four stocks (DQ, ENPH, FSLR, SEDG) all had over 100% return on investment for the year.
@@ -22,9 +26,15 @@ With this in mind the best stock to invest in would be RUN as it had a positive 
 
 ### Execution Times
 The run time for the 2017 analysis was improved by .10 seconds
-
+Refactored Code:
+![VBA_Challenge_2017](Resources.zip)
+Original Code:
+![VBA_Challenge_2017_Original](Resources.zip)
 The run time for the 2018 analysis was improved by .03 seconds
-
+Refactored Code:
+![VBA_Challenge_2018](Resources.zip)
+Original Code:
+![VBA_Challenge_2018_Original](Resources.zip)
 ## Summary
 
 ### Advantages
